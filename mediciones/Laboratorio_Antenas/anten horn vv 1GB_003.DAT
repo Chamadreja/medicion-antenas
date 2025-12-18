@@ -1,0 +1,29 @@
+Type;ESR-7;
+Version;3.48;
+Date;28.Oct 24;
+Mode;ANALYZER;
+Center Freq;1000000000.000000;Hz
+Freq Offset;0.000000;Hz
+Span;0.000000;Hz
+x-Axis;LIN;
+Start;1000000000.000000;Hz
+Stop;1000000000.000000;Hz
+Ref Level;-10.000000;dBm
+Level Offset;0.000000;dB
+Ref Position;100.000000;%
+y-Axis;LOG;
+Level Range;100.000000;dB
+Rf Att;10.000000;dB
+El Att;0.000000;dB
+RBW;100000.000000;Hz
+VBW;100000.000000;Hz
+SWT;95.000000;s
+Trace Mode;VIEW;
+Detector;AUTOPEAK;
+Sweep Count;0;
+Trace 2:;;
+x-Unit;s;
+y-Unit;dBm;
+Preamplifier;OFF;
+Transducer;OFF;
+Values;2001;
